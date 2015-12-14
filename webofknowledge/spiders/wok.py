@@ -17,8 +17,8 @@ class WokSpider(scrapy.Spider):
 
     def start_requests(self):
         '''
-        username = 'alabargg@navarra.es'
-        password = '8ke67utuyb'
+        username = 'your@email.com'
+        password = 'pass****'
 
         url1 = "http://wos.fecyt.es/"
         resp = requests.get(url1)
